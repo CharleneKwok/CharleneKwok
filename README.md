@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on my school work and frontend projects<br>👯 I’m looking to collaborate on web dev<br>🤝 I’m looking for someone who is interested in frontend as well<br>💬 Ask me about any tech-related questions<br>⚡ Fun fact: I love to rewatch my favourite TV dramas and even more than 5 times
