@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi I am Charlene ![image](https://user-images.githubusercontent.com/67363431/177318862-8d57323c-a122-408e-8147-b5c07b1e2f06.png)
 
 # 💫 About Me:
 🔭 I’m currently working on my school work and frontend projects<br>👯 I’m looking to collaborate on web dev<br>🤝 I’m looking for someone who is interested in frontend as well<br>💬 Ask me about any tech-related questions<br>⚡ Fun fact: I love to rewatch my favourite TV dramas and even more than 5 times
